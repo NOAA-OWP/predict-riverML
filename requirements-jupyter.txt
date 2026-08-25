@@ -1,0 +1,7 @@
+folium==0.19.5
+ipykernel==6.29.5
+jupyterlab==4.4.3
+jupytergis==0.5.0
+matplotlib==3.10.3
+geopandas==1.1.1
+pyarrow==21.0.0
